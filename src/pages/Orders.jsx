@@ -13,7 +13,7 @@ const Orders = () => {
 				</div>
 			</div>
 		</div>
-    )
+    ) 
 }
 
 export default Orders
